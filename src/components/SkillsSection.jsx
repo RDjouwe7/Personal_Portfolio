@@ -28,7 +28,7 @@ const skills = [
     {name: 'Bitbucket', level: 85 , category: "Tools"},
     {name: 'Android Studio', level: 80 , category: "Tools"},
 ];
-const categories = ["All", "frontend", "Backend", "Tools"]
+const categories = ["All", "Frontend", "Backend", "Tools"]
 
 export const SkillSection = () => {
 
