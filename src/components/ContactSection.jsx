@@ -11,7 +11,7 @@ export const ContactSection = () => {
                 </h2>
 
                 <p className="text-center text-mute-foreground mb-12 max-w-2xl mx-auto">
-                    Open to opportunities | feel free to reach out. <br/>
+                    Open to opportunities | Feel free to reach out. <br/>
                     Messaging functionality coming soon. In the meantime, I'd be happy to connect via email, phone, or LinkedIn.
                 </p>
 
@@ -103,7 +103,7 @@ export const ContactSection = () => {
                                  name="message"
                                  required
                                  className="w-full px-4 py-3 rounded-md border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary resize-none"
-                                 placeholder="Hello, I'll ike to ..."/>
+                                 placeholder="Hello, I'll like to ..."/>
                             </div>
 
                             <button type="submit"
